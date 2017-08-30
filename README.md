@@ -1,6 +1,6 @@
 # Survival-Shooter
 
-![alt text](https://github.com/binknam/Survival-Shooter/blob/master/Untitled.pngg)
+![alt text](https://github.com/binknam/Survival-Shooter/blob/master/Untitled.png)
 
 Di chuyển bằng các phím lên xuống
 Di chuột để chỉnh hướng bắn, chuột trái bắn
